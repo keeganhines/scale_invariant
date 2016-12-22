@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/keeganhines/scale_invariant.png?label=ready&title=Ready)](https://waffle.io/keeganhines/scale_invariant)
 # scale_invariant
 
 Kaggle team for the [Nature Conservancy Kaggle](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) competition. 
