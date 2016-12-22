@@ -2,7 +2,7 @@
 
 Kaggle team for the [Nature Conservancy Kaggle](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) competition. 
 
-![marlin](https://github.com/keeganhines/scale_invariant/marlin.jpg "Marlin")
+![marlin](https://github.com/keeganhines/scale_invariant/blob/master/marlin.jpg)
 
 
 ### Contributors
