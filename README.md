@@ -4,6 +4,11 @@
 
 Kaggle team for the [Nature Conservancy Kaggle](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) competition. 
 
+
+[![Build Status][travis_img]][travis_href]
+[![Stories in Ready][waffle_img]][waffle_href]
+[![Chat][gitter_img]][gitter_href]
+
 ![marlin](https://github.com/keeganhines/scale_invariant/blob/master/marlin.jpg)
 
 
@@ -14,6 +19,11 @@ Kaggle team for the [Nature Conservancy Kaggle](https://www.kaggle.com/c/the-nat
 * [@riuchando] (https://github.com/Riuchando)
 
 
-#### Join the Chat [![Join the chat at https://gitter.im/scale_invariant/Lobby](https://badges.gitter.im/scale_invariant/Lobby.svg)](https://gitter.im/scale_invariant/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<!-- Links -->
+[gitter_img]: https://gitter.im/scale_invariant/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter_href]: https://gitter.im/scale_invariant/Lobby
+[travis_img]: https://travis-ci.org/keeganhines/scale_invariant.svg?branch=master
+[travis_href]: https://travis-ci.org/keeganhines/scale_invariant
+[waffle_img]: https://badge.waffle.io/keeganhines/scale_invariant.png?label=ready&title=Ready
+[waffle_href]: https://waffle.io/keeganhines/scale_invariant
 
-#### Planning Tracked with [Waffle] (https://waffle.io/keeganhines/scale_invariant) [![Stories in Ready](https://badge.waffle.io/keeganhines/scale_invariant.png?label=ready&title=Ready)](https://waffle.io/keeganhines/scale_invariant)
