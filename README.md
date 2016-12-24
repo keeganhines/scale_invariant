@@ -20,7 +20,7 @@ Kaggle team for the [Nature Conservancy Kaggle](https://www.kaggle.com/c/the-nat
 
 
 <!-- Links -->
-[gitter_img]: https://gitter.im/scale_invariant/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter_img]: https://badges.gitter.im/scale_invariant/Lobby.svg
 [gitter_href]: https://gitter.im/scale_invariant/Lobby
 [travis_img]: https://travis-ci.org/keeganhines/scale_invariant.svg?branch=master
 [travis_href]: https://travis-ci.org/keeganhines/scale_invariant
