@@ -1,6 +1,6 @@
 import unittest
 
-class TestSimple(unittest.TestCase):
+class SimpleTest(unittest.TestCase):
 
 	def test_addition(self):
 		a = 2
