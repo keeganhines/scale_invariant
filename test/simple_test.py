@@ -7,10 +7,5 @@ class TestSimple(unittest.TestCase):
 		b = 5
 		self.assertTrue( (a + b) == 7 )
 
-	def test_broken(self):
-		a = 2
-		b = 2
-		self.assertTrue( (a + b) == 7 )
-
 if __name__ == '__main__':
     unittest.main()
